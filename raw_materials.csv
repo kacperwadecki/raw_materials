@@ -1,0 +1,6 @@
+material_id,name,unit,unit_cost,quantity_on_hand
+1,Steel Sheets,kg,2.5,500
+2,Aluminum Rods,pcs,1.75,300
+3,Copper Wire,m,0.5,1000
+4,Plastic Pellets,kg,0.9,800
+5,Rubber Seals,pcs,0.2,1500
